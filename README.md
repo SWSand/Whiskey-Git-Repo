@@ -35,6 +35,3 @@ Classroom videos/lectures will be recorded and posted to YouTube. It can take up
 ## Additional Resources Shared in Class
 
 - [Lectures & Books](https://drive.google.com/drive/folders/1JXp_dvxjdFWyrVmSq6wqs9vcvqSDtZ5O?usp=drive_link)
-
-
-small change test
